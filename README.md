@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Minhajul Rohan
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1373219246742769666/1635316525/600x200)
 
