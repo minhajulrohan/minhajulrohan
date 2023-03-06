@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Minhajul Rohan
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1373219246742769666/1635316525/600x200)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQEy2lxMeMA-yQ/profile-displaybackgroundimage-shrink_350_1400/0/1678073826286?e=1683763200&v=beta&t=0PgzBC6Edv1oWyqGv-0tpmOOstwgMoivyudbNA35AiQ)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
