@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Minhajul Rohan
+### Hi there 👋, my name's Minhajul Islam Rohan
 #### I’m currently working on Web & App
 
 
